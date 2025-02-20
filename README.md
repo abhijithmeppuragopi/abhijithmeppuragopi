@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijithmeppuragopi
 - 👀 I’m interested in Coding,Movies,Football
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on value added projects for myself and for the people
+- 💞️ I’m looking to collaborate on value added projects for the society
 
 <!---
 abhijithmeppuragopi/abhijithmeppuragopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
